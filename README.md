@@ -1,5 +1,5 @@
 This is a edited version of applealc that fixes nvidia audio on 10.14+ gpus with oclp.
-
+[Download](https://nightly.link/EAZYBLACK/NvidiaAudioOCLP/actions/runs/6546550631/Artifacts.zip)
 
 
 AppleALC
